@@ -1,0 +1,23 @@
+{
+  "name": "simple-http-server",
+  "version": "1.0.0",
+  "description": "A simple HTTP server using Node's http module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OSU-CS290-F16/simple-http-server.git"
+  },
+  "keywords": [
+    "http"
+  ],
+  "author": "Rob Hess <hessro@oregonstate.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OSU-CS290-F16/simple-http-server/issues"
+  },
+  "homepage": "https://github.com/OSU-CS290-F16/simple-http-server#readme"
+}
